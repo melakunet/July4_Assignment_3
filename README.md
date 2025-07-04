@@ -29,18 +29,6 @@ This project showcases GitHub version control and collaboration practices. It in
 
 ---
 
-## 🧪 Installation
-
-You can clone this repository locally:
-
-```bash
-git clone https://github.com/melakunet/July4_Assignment_3.git
-cd July4_Assignment_3
-
-
-
----
-
 
 ## 📘 Instructions
 Open the project in your code editor (e.g., VS Code)
