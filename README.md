@@ -41,18 +41,20 @@ Follow additional notes in the README and wiki pages
 
 ---
 ## 🔗 Wiki Navigation
-🏠 Home
 
-📖 About
+- 🏠 [Home](https://github.com/melakunet/July4_Assignment_3/wiki/Home)
+- 📖 [About](https://github.com/melakunet/July4_Assignment_3/wiki/About)
+- 🖼️ [Gallery](https://github.com/melakunet/July4_Assignment_3/wiki/Gallery)
+- 📬 [Contact](https://github.com/melakunet/July4_Assignment_3/wiki/Contact)
 
-🖼️ Gallery
-
-📬 Contact
 
 ----
 ## 👤 Author
-GitHub: melakunet
 
-LinkedIn: etefworkie
+This project is maintained by:
+
+- **Name:** Etefworkie Melaku  
+- **GitHub:** [melakunet](https://github.com/melakunet)  
+- **LinkedIn:** [etefworkie](https://www.linkedin.com/in/etefworkie)
 
 
