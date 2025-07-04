@@ -57,4 +57,7 @@ This project is maintained by:
 - **GitHub:** [melakunet](https://github.com/melakunet)  
 - **LinkedIn:** [etefworkie](https://www.linkedin.com/in/etefworkie)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melakunet&show_icons=true&theme=radical)
 
