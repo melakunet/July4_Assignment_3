@@ -20,6 +20,19 @@ This project showcases GitHub version control and collaboration practices. It in
 
 ---
 
+## 📚 Table of Contents
+- [Project Structure](#project-structure)
+- [Description](#description)
+- [Tools Used](#tools-used)
+- [Instructions](#instructions)
+- [Wiki Navigation](#wiki-navigation)
+- [Installation](#installation)
+- [Author](#author)
+- [Contributing](#contributing)
+- [GitHub Stats](#github-stats)
+
+---
+
 ## 🛠 Tools Used
 
 - Git & GitHub
@@ -65,6 +78,22 @@ This project is maintained by:
 - **Name:** Etefworkie Melaku  
 - **GitHub:** [melakunet](https://github.com/melakunet)  
 - **LinkedIn:** [etefworkie](https://www.linkedin.com/in/etefworkie)
+
+---
+## 🤝 Contributing
+
+We welcome contributions from everyone! If you'd like to help improve this project:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Commit your changes (`git commit -m "Add your message"`)
+4. Push to the branch (`git push origin feature/your-feature-name`)
+5. Open a pull request describing your changes
+
+Please follow standard coding practices and document your work clearly.
+
+
+---
 
 ## 📊 GitHub Stats
 
