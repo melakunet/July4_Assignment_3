@@ -47,6 +47,15 @@ Follow additional notes in the README and wiki pages
 - 🖼️ [Gallery](https://github.com/melakunet/July4_Assignment_3/wiki/Gallery)
 - 📬 [Contact](https://github.com/melakunet/July4_Assignment_3/wiki/Contact)
 
+---
+## 🧪 Installation
+
+To clone and run this project locally:
+
+```bash
+git clone https://github.com/melakunet/July4_Assignment_3.git
+cd July4_Assignment_3
+
 
 ----
 ## 👤 Author
