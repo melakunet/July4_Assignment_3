@@ -55,7 +55,7 @@ To clone and run this project locally:
 ```bash
 git clone https://github.com/melakunet/July4_Assignment_3.git
 cd July4_Assignment_3
-
+```
 
 ----
 ## 👤 Author
